@@ -13,7 +13,7 @@ cryptography==3.2.1
 defusedxml==0.6.0
 distlib==0.3.1
 dj-database-url==0.5.0
-Django==3.1.4
+Django==3.1.12
 django-allauth==0.44.0
 django-celery==3.3.1
 django-cors-headers==3.5.0
